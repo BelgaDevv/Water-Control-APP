@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Water Control</string>
+
+    <string name="subtitle">
+        Acompanhe seu consumo diário de água
+    </string>
+
+    <string name="progress_title">
+        Seu progresso hoje
+    </string>
+
+    <string name="progress_hint">
+        Toque no gráfico para alternar a visualização
+    </string>
+
+    <string name="accumulated_title">
+        Consumo acumulado
+    </string>
+
+    <string name="accumulated_default">
+        Consumo acumulado: 0 ml
+    </string>
+
+    <string name="register_title">
+        Registrar consumo
+    </string>
+
+    <string name="register_description">
+        Informe a quantidade de água consumida.
+    </string>
+
+    <string name="water_amount_hint">
+        Quantidade em ml
+    </string>
+
+    <string name="register_button">
+        Registrar consumo
+    </string>
+
+    <string name="goal_title">
+        Meta diária
+    </string>
+
+    <string name="goal_description">
+        Defina quanto você deseja consumir hoje.
+    </string>
+
+    <string name="goal_hint">
+        Meta em ml
+    </string>
+
+    <string name="change_goal_button">
+        Alterar meta
+    </string>
+
+    <string name="history_title">
+        Histórico de hoje
+    </string>
+
+    <string name="empty_history">
+        Registros de hoje\n\nNenhum consumo registrado.
+    </string>
+
+    <string name="water_amount_required">
+        Informe o volume consumido.
+    </string>
+
+    <string name="invalid_water_amount">
+        Informe um volume válido.
+    </string>
+
+    <string name="water_amount_positive">
+        O volume deve ser maior que zero.
+    </string>
+
+    <string name="goal_required">
+        Informe a nova meta.
+    </string>
+
+    <string name="invalid_goal">
+        Informe uma meta válida.
+    </string>
+
+    <string name="goal_positive">
+        A meta deve ser maior que zero.
+    </string>
+
+    <string name="records_today">
+        Registros de hoje
+    </string>
+
+    <string name="no_consumption">
+        Nenhum consumo registrado.
+    </string>
+
+    <string name="accumulated_format">
+        Consumo acumulado: %1$d ml
+    </string>
+
+    <string name="record_format">
+        %1$s - %2$d ml
+    </string>
+
+</resources>

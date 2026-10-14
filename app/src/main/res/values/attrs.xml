@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!--
+        Define os atributos personalizados da WaterProgressView.
+        Esses atributos permitem configurar a View diretamente pelo XML.
+    -->
+    <declare-styleable name="WaterProgressView">
+
+        <!-- Cor utilizada no indicador de progresso. -->
+        <attr name="progressColor" format="color" />
+
+        <!-- Cor utilizada nos textos exibidos pela View. -->
+        <attr name="textColor" format="color" />
+
+        <!--
+            Valor máximo utilizado como referência para calcular
+            a porcentagem do progresso.
+        -->
+        <attr name="maxValue" format="integer" />
+
+    </declare-styleable>
+
+</resources>
